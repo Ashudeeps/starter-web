@@ -1,3 +1,4 @@
+changes - v2.
 Setting up a new project in Github
 o	Login to github and create a project
 o	Prepare the local system (start gitbash)
