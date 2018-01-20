@@ -1,0 +1,13 @@
+Setting up a new project in Github
+o	Login to github and create a project
+o	Prepare the local system (start gitbash)
+o	Run the following commands – 
+Git config - - global user.name “username”
+Git config - - global user.email “email address”
+o	Confirm by running the command -> git config - - global –list
+o	Clone the project to local by running the command – git clone “url”
+o	Switch to the directory of repo and run the command -> git status
+o	To send the file to the staging are , run the command-> git add ‘filename’
+o	To commit the file , run the command-> git commit -m “message”
+o	To push the changes to github, run the command-> git push “github copy name” “branch name”
+
